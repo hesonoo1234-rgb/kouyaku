@@ -1,6 +1,6 @@
-# saitama1
+# kouyaku
 
-このサイトは日本の議員の公約をまとめたものです。
+このサイトは日本の議員の公約をまとめたものです。(現在制作中）
 
 ## URL
 https://hesonoo1234-rgb.github.io/saitama1/

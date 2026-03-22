@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hesonoo1234-rgb.github.io/kouyaku/sitemap.xml

@@ -6,8 +6,10 @@
       color: #111;line-height: 1.6;
     }
     .main-content {
-  max-width: 1000px;width: 90%; margin: 0 auto;
-}
+      max-width: 1000px;
+      width: 90%;
+      margin: 0 auto;
+    }
     h2 {
       font-size: 22px;
       margin-bottom: 8px;
@@ -27,7 +29,8 @@
     
     .名前 {
       font-size: 22px;
-      font-weight: bold;font-weight: bold;
+      font-weight: bold;
+      font-weight: bold;
     }
     .政党 {
       font-size: 14px;

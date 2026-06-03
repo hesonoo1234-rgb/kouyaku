@@ -20,6 +20,11 @@ html {
     padding: 15px;
     margin: 20px 0;
 }
+.mokuji-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
 .main-content {
       max-width: 1000px;
       width: 90%;

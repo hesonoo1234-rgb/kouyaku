@@ -13,6 +13,13 @@ html {
     color: black;
     font-weight: bold;
 }
+.mokuji {
+    background-color: #f8f9fb;
+    border-left: 5px solid #2c5aa0;
+    border-radius: 8px;
+    padding: 15px;
+    margin: 20px 0;
+}
 .main-content {
       max-width: 1000px;
       width: 90%;

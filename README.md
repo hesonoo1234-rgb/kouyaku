@@ -1,8 +1,7 @@
 # kouyaku
 このサイトは日本の国会議員の公約をまとめたものです。（現在制作中）
 ## URL
-https://hesonoo1234-rgb.github.io/kouyaku/
-<!-- 公約警察-->
+https://hesonoo1234-rgb.github.io/hesonoo/
 ## 内容
 国会議員の候補者の公約を要約し、選挙区ごとにまとめました。
 ### 説明

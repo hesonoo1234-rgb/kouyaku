@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hesonoo1234-rgb.github.io/kouyaku/sitemap.xml
-<!-- 公約警察 -->
+Sitemap: https://hesonoo1234-rgb.github.io/hesonoo/sitemap.xml
